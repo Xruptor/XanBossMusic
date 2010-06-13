@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: XanBossMusic
+## Notes: Plays the Benny Hill music whenever any boss is detected.
+## Author: Xruptor
+## Version: 1.1
+
+LibStub\LibStub.lua
+LibBossIDs-1.0\LibBossIDs-1.0.lua
+XanBossMusic.lua
